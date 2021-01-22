@@ -9,3 +9,5 @@ Eu sou um desenvolvedor Java e atualmente estou me aprofundando em Spring;
 Se não estiver desenvolvendo provavelmente vou estar jogar um video-game ou tocando Guitarra; 
 
 Bem, se você quiser conversar comigo sobre programação ou tomar um café, pode me encontrar no [LinkedIn](https://www.linkedin.com/in/gustavo-alves-a3619610b/) 📬
+
+#### Que a força esteja com você!
