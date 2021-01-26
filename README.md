@@ -4,7 +4,7 @@
 
 ### Olá 👋 Sejá bem vindo ao meu perfil!
 
-Eu sou um desenvolvedor Java e atualmente estou me aprofundando em Spring-boot;
+Eu sou um desenvolvedor Java e atualmente estou me aprofundando em Spring/Spring-boot;
 
 Se eu não estiver desenvolvendo provavelmente vou estar jogando um video-game ou lendo um bom livro!
 
