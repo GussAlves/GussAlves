@@ -2,12 +2,12 @@
 
 # Gustavo Alves :man_technologist:
 
-### Olá 👋 Sejá bem vindo ao meu perfil!
+### Hello 👋 Welcome to my perfil!
 
-Meu nome é Gustavo tenho 23 anos e estou cursando o último ano de Análise e Desenvolvimento de Sistemas.
+My name's Gustavo, actuality I'm studying the last year of Systems Analysis and Development.
 
-Gosto de passar meu tempo aprendendo coisas novas, jogando online com amigos ou lendo um bom livro. 
+I like to spend my time learning new things, playing games online with friends or reading a good book.
 
-Bem, se você quiser conversar comigo sobre programação ou tomar um café, pode me encontrar no [LinkedIn](https://www.linkedin.com/in/gustavo-alves-a3619610b/) 📬
+Well, if you want to talk to me about programming or have a coffee, you can find me at [LinkedIn](https://www.linkedin.com/in/gustavo-alves-a3619610b/) 📬
 
-#### Que a força esteja com você!
+#### That strength is with you!
