@@ -2,7 +2,7 @@
 
 # Gustavo Alves :man_technologist:
 
-### Hello 👋 Welcome to my perfil!
+### Hello 👋 Welcome to my profile!
 
 My name's Gustavo, actuality I'm studying the last year of Systems Analysis and Development.
 
