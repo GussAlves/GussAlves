@@ -1,8 +1,6 @@
 <img align="right" src="https://1.bp.blogspot.com/-2ttOlxMLC_I/YAsTWdT8HBI/AAAAAAAAMFc/WUo5KVBHNi052LIOIyvkjABSp3nS5qLWACLcBGAsYHQ/s320/Coding_PNG.png" width="300"/>
 
-# Gustavo Alves :man_technologist:
-
-### Hello 👋 Welcome to my profile!
+### Hi there 👋
 
 My name's Gustavo, actuality I'm studying the last year of Systems Analysis and Development.
 
