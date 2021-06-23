@@ -8,8 +8,6 @@ I like to spend my time learning new things, playing games online with friends o
 
 Well, if you want to talk to me about programming or have a coffee, you can find me at [LinkedIn](https://www.linkedin.com/in/gustavo-alves-a3619610b/) 📬
 
-#### That strength is with you!
-
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
