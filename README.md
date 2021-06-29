@@ -4,7 +4,7 @@
 
 Apaixonado por tecnologia e todas as suas facilidades que agregam em nossa vida, venho mergulhando cada vez mais fundo nesse grande mar de conhecimento. 
 
-Atualmente tenho voltado meus estudos ao desenvolvimento de api's com spring. Também me interesso muito por... 
+Atualmente tenho voltado meus estudos ao desenvolvimento de api's com spring. Também tenho interesses em tecnologias como Docker, Angular, mongoDB entre outras.   
 
 Me encontre no [LinkedIn](https://www.linkedin.com/in/gustavo-alves-a3619610b/) 📬!
 
