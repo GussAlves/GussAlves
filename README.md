@@ -1,16 +1,14 @@
-<img align="right" src="https://1.bp.blogspot.com/-2ttOlxMLC_I/YAsTWdT8HBI/AAAAAAAAMFc/WUo5KVBHNi052LIOIyvkjABSp3nS5qLWACLcBGAsYHQ/s320/Coding_PNG.png" width="300"/>
+<img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Eewqo4N6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/u0n3j21scpd9yxo0vyh7.png" width="300"/>
 
-### Hi there 👋
+### Saudações  👋
 
-My name's Gustavo, actuality I'm studying the last year of Systems Analysis and Development.
+Apaixonado por tecnologia e todas as suas facilidades que agregam em nossa vida, venho mergulhando cada vez mais fundo nesse grande mar de conhecimento. 
 
-I like to spend my time learning new things, playing games online with friends or reading a good book.
+Atualmente tenho voltado meus estudos ao desenvolvimento de api's com spring. Também me interesso muito por... 
 
-Well, if you want to talk to me about programming or have a coffee, you can find me at [LinkedIn](https://www.linkedin.com/in/gustavo-alves-a3619610b/) 📬
+Me encontre no [LinkedIn](https://www.linkedin.com/in/gustavo-alves-a3619610b/) 📬!
 
-## ⚡ Technologies
-
-These are some of the technologies and tools that I work with:
+## ⚡ Tecnologias 
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
