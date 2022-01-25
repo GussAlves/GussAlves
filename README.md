@@ -2,9 +2,9 @@
 
 ### Saudações  👋
 
-Apaixonado por tecnologia e todas as suas facilidades que agregam em nossa vida, venho mergulhando cada vez mais fundo nesse grande mar de conhecimento. 
+Apaixonado por tecnologia e todas as suas facilidades que agregam em nossa vida. 
 
-Atualmente tenho voltado meus estudos ao desenvolvimento de api's com spring. Também tenho interesses em tecnologias como Docker, Angular, mongoDB entre outras.   
+Atualmente tenho voltado meus estudos ao desenvolvimento focados em backend, porém tenho interesses em aprender mais sobre tecnologias como Docker, React, mongoDB entre outras.   
 
 Me encontre no [LinkedIn](https://www.linkedin.com/in/gustavo-alves-a3619610b/) 📬!
 
